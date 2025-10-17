@@ -15,5 +15,6 @@ public class App
         System.out.println( "Hello World  hot-fix" );
         System.out.println( "Hello World  master11111" );
         System.out.println("hello world push test");
+        System.out.println("hello world pull test");
     }
 }
